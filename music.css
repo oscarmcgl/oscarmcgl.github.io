@@ -162,6 +162,20 @@
     #mobile-menu.is-active  .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
+
+    .main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 800vh;
+    background-color: #3b343b;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-bottom: 0 10px;
+    }
 }
 
 
@@ -270,6 +284,20 @@ a:hover {
         font-size: 1.5rem;
     }
 
+    .main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 800vh;
+    background-color: #3b343b;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-bottom: 0 10px;
+    }
+
 }
 
 @media screen and (max-width: 480px) {
@@ -290,6 +318,20 @@ a:hover {
     .main__btn {
         padding: 12px 36px;
         margin: 2.5rem 0;
+    }
+
+    .main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 800vh;
+    background-color: #3b343b;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-bottom: 0 10px;
     }
 }
 
@@ -327,6 +369,20 @@ a:hover {
         font-size: 1.5rem;
     }
 
+    .main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 800vh;
+    background-color: #3b343b;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-bottom: 0 10px;
+    }
+
 }
 
 @media screen and (max-width: 480px) {
@@ -347,6 +403,19 @@ a:hover {
     .about__btn {
         padding: 12px 36px;
         margin: 2.5rem 0;
+    }
+    .main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 800vh;
+    background-color: #3b343b;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding-bottom: 0 10px;
     }
 }
 
