@@ -1,3 +1,8 @@
+.body {
+    background-color: #3b343b;
+
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
