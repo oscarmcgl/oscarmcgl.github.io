@@ -248,6 +248,7 @@ a:hover {
         width: 100%;
         margin: 0 auto;
         height: 999vh;
+        background-color: #3b343b;
     }
 
     .main__content {
@@ -304,6 +305,7 @@ a:hover {
         width: 100%;
         margin: 0 auto;
         height: 500vh;
+        background-color: #3b343b;
     }
 
     .about__content {
