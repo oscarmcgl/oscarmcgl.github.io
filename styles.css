@@ -228,6 +228,15 @@
 
 }
 
+a {
+    text-decoration: none;
+    color: white;
+  }
+  
+a:hover {
+    color:#ff8177
+  }
+
 /* Mobil Responsive */
 @media screen and (max-width: 768px) {
     .main__content {
